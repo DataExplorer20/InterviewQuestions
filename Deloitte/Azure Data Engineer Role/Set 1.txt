@@ -1,0 +1,7 @@
+1. Explain indexing in a database.
+2. Difference between clustered and non-clustered index.
+3. What is a merge join in SQL?
+4. Difference between merge and join in PySpark.
+5. Use of the __init__ method in Python.
+6. Difference between list and tuple.
+7. Explain your responsibilities in your project, and can you handle data quality issues?
